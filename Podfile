@@ -7,7 +7,6 @@ target 'DHS PROUD' do
 
   # Pods for StudentRewardsSystem
   pod 'GoogleSignIn'
-  pod 'mailcore2-ios'
   
   
   target 'DHS PROUDTests' do
